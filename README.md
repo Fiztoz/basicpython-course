@@ -1,2 +1,2 @@
 # basicpython-course
-คอร์ส Python Uncle Engineer
+คอร์ส Python by Uncle Engineer
