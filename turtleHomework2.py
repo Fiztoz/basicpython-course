@@ -1,7 +1,7 @@
 import turtle
 tao = turtle.Pen() #ดึงความสามารถการใช้ปากกา
 tao.shape('turtle') #แปลงร่างเป็นเต่า
-tao.speed(0) # เพิ่มความเร็วเต่า
+tao.speed(100) # เพิ่มความเร็วเต่า
 
 def Grass():
     Go(-400,50)
